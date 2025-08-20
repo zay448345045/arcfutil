@@ -1,0 +1,163 @@
+|song_id              |name                                       |rating_pst|rating_prs|rating_ftr|rating_byn|rating_etr|
+|---------------------|-------------------------------------------|----------|----------|----------|----------|----------|
+|sayonarahatsukoi     |Sayonara Hatsukoi                          |15        |45        |70        |-1        |85        |
+|lostcivilization     |Lost Civilization                          |40        |70        |92        |98        |-1        |
+|goodtek              |GOODTEK (Arcaea Edit)                      |40        |65        |93        |98        |-1        |
+|viyella              |cry of viyella                             |35        |60        |87        |-1        |-1        |
+|rise                 |Rise                                       |25        |40        |78        |-1        |-1        |
+|lucifer              |Lucifer                                    |35        |55        |82        |-1        |-1        |
+|fairytale            |Fairytale                                  |10        |35        |70        |95        |-1        |
+|hearditsaid          |I've heard it said                         |35        |60        |81        |-1        |-1        |
+|babaroque            |Babaroque                                  |30        |65        |85        |-1        |-1        |
+|memoryfactory        |memoryfactory.lzh                          |25        |55        |89        |-1        |-1        |
+|snowwhite            |Snow White                                 |25        |50        |84        |-1        |-1        |
+|relentless           |Relentless                                 |45        |65        |80        |-1        |-1        |
+|shadesoflight        |Shades of Light in a Transcendent Realm    |30        |60        |83        |90        |-1        |
+|vexaria              |Vexaria                                    |25        |50        |70        |90        |-1        |
+|essenceoftwilight    |Essence of Twilight                        |45        |70        |91        |-1        |-1        |
+|qualia               |qualia -ideaesthesia-                      |45        |70        |91        |97        |-1        |
+|pragmatism           |PRAGMATISM                                 |45        |86        |101       |110       |-1        |
+|sheriruth            |Sheriruth                                  |55        |75        |101       |-1        |-1        |
+|lumia                |Lumia                                      |25        |55        |84        |95        |-1        |
+|dement               |Dement ~after legend~                      |35        |60        |78        |99        |-1        |
+|dandelion            |Dandelion                                  |25        |60        |85        |-1        |-1        |
+|anokumene            |Anökumene                                  |25        |65        |92        |-1        |-1        |
+|infinityheaven       |Infinity Heaven                            |15        |55        |78        |96        |-1        |
+|partyvinyl           |Party Vinyl                                |40        |78        |94        |101       |-1        |
+|flashback            |Flashback                                  |20        |50        |89        |-1        |-1        |
+|flyburg              |Flyburg and Endroll                        |30        |60        |90        |-1        |-1        |
+|nirvluce             |Nirv lucE                                  |25        |70        |103       |-1        |-1        |
+|paradise             |Paradise                                   |10        |40        |78        |-1        |-1        |
+|brandnewworld        |Brand new world                            |20        |40        |78        |-1        |-1        |
+|dataerror            |DataErr0r                                  |30        |70        |95        |-1        |-1        |
+|crosssoul            |CROSS†SOUL                                 |40        |70        |94        |-1        |-1        |
+|yourvoiceso          |Your voice so... feat. Such                |35        |65        |94        |-1        |-1        |
+|chronostasis         |Chronostasis                               |35        |75        |89        |-1        |-1        |
+|kanagawa             |Kanagawa Cyber Culvert                     |10        |55        |90        |98        |-1        |
+|moonlightofsandcastle|Moonlight of Sand Castle                   |15        |50        |78        |-1        |-1        |
+|reconstruction       |REconstruction                             |25        |60        |84        |-1        |-1        |
+|evoltex              |Evoltex (poppi'n mix)                      |20        |70        |89        |-1        |-1        |
+|oracle               |Oracle                                     |30        |55        |93        |-1        |-1        |
+|aterlbus             |αterlβus                                   |40        |75        |102       |-1        |-1        |
+|clotho               |Clotho and the stargazer                   |20        |50        |78        |-1        |88        |
+|impurebird           |Impure Bird                                |20        |55        |94        |-1        |-1        |
+|ignotus              |Ignotus                                    |35        |65        |93        |99        |-1        |
+|lethaeus             |Lethaeus                                   |35        |65        |97        |-1        |-1        |
+|romancewars          |Romance Wars                               |10        |40        |78        |-1        |-1        |
+|blossoms             |Blossoms                                   |10        |40        |70        |-1        |-1        |
+|moonheart            |Moonheart                                  |25        |55        |84        |97        |-1        |
+|genesis              |Genesis                                    |20        |55        |82        |-1        |-1        |
+|harutopia            |Harutopia ~Utopia of Spring~               |10        |45        |85        |-1        |-1        |
+|auxesia              |Auxesia                                    |35        |65        |93        |-1        |-1        |
+|rabbitintheblackroom |Rabbit In The Black Room                   |25        |55        |84        |-1        |-1        |
+|modelista            |Modelista                                  |35        |75        |100       |-1        |-1        |
+|soundwitch           |SOUNDWiTCH                                 |35        |65        |99        |-1        |-1        |
+|trappola             |trappola bewitching                        |30        |60        |100       |105       |-1        |
+|iconoclast           |Iconoclast                                 |40        |70        |91        |-1        |-1        |
+|conflict             |conflict                                   |45        |75        |102       |-1        |-1        |
+|axiumcrisis          |Axium Crisis                               |55        |85        |107       |-1        |-1        |
+|grievouslady         |Grievous Lady                              |65        |93        |113       |-1        |-1        |
+|dreaminattraction    |Dreamin' Attraction!!                      |45        |70        |94        |-1        |-1        |
+|redandblue           |Red and Blue                               |40        |78        |94        |100       |-1        |
+|onelastdrive         |One Last Drive                             |25        |55        |82        |-1        |-1        |
+|surrender            |Surrender                                  |30        |65        |88        |-1        |-1        |
+|yozakurafubuki       |Yosakura Fubuki                            |45        |70        |94        |-1        |-1        |
+|cyanine              |cyanine                                    |40        |78        |106       |-1        |-1        |
+|dreamgoeson          |Dream goes on                              |15        |50        |78        |-1        |-1        |
+|journey              |Journey                                    |30        |60        |91        |-1        |-1        |
+|specta               |Specta                                     |35        |65        |95        |-1        |-1        |
+|quon                 |Quon                                       |40        |65        |96        |-1        |-1        |
+|syro                 |Syro                                       |35        |65        |93        |-1        |-1        |
+|reinvent             |Reinvent                                   |25        |65        |85        |-1        |-1        |
+|silentrush           |Silent Rush                                |25        |50        |86        |-1        |-1        |
+|singularity          |Singularity                                |45        |78        |107       |104       |-1        |
+|memoryforest         |Memory Forest                              |35        |60        |98        |-1        |-1        |
+|strongholds          |Strongholds                                |25        |50        |92        |-1        |-1        |
+|nexttoyou            |next to you                                |45        |70        |88        |96        |-1        |
+|metallicpunisher     |Metallic Punisher                          |30        |70        |103       |-1        |-1        |
+|blaster              |Blaster                                    |40        |70        |93        |-1        |-1        |
+|guardina             |γuarδina                                   |40        |80        |104       |-1        |-1        |
+|carminescythe        |carmine:scythe                             |40        |78        |96        |-1        |-1        |
+|bethere              |Be There                                   |40        |75        |94        |-1        |-1        |
+|cyberneciacatharsis  |Cybernecia Catharsis                       |40        |70        |95        |98        |-1        |
+|callmyname           |Call My Name feat. Yukacco                 |35        |60        |87        |-1        |-1        |
+|inkarusi             |inkar-usi                                  |20        |40        |78        |94        |-1        |
+|mazenine             |Maze No.9                                  |30        |35        |89        |-1        |-1        |
+|themessage           |The Message                                |30        |65        |97        |-1        |-1        |
+|sulfur               |Sulfur                                     |40        |60        |97        |-1        |-1        |
+|halcyon              |Halcyon                                    |55        |82        |107       |-1        |-1        |
+|etherstrike          |Ether Strike                               |55        |83        |103       |-1        |-1        |
+|fractureray          |Fracture Ray                               |60        |95        |113       |-1        |-1        |
+|suomi                |Suomi                                      |20        |50        |78        |-1        |89        |
+|bookmaker            |Bookmaker (2D Version)                     |45        |65        |83        |100       |-1        |
+|darakunosono         |Illegal Paradise                           |20        |70        |95        |-1        |-1        |
+|dropdead             |dropdead                                   |15        |95        |91        |105       |-1        |
+|fallensquare         |Fallensquare                               |30        |75        |96        |-1        |-1        |
+|nhelv                |Nhelv                                      |30        |65        |99        |109       |-1        |
+|espebranch           |LunarOrbit -believe in the Espebranch road-|35        |60        |96        |-1        |-1        |
+|purgatorium          |Purgatorium                                |25        |60        |84        |96        |-1        |
+|hikari               |Hikari                                     |25        |60        |81        |-1        |-1        |
+|stager               |STAGER (ALL STAGE CLEAR)                   |30        |65        |95        |-1        |-1        |
+|hallofmirrors        |Hall of Mirrors                            |30        |55        |82        |-1        |-1        |
+|linearaccelerator    |Linear Accelerator                         |25        |65        |98        |-1        |-1        |
+|tiferet              |Tiferet                                    |45        |78        |104       |-1        |-1        |
+|alexandrite          |Alexandrite                                |45        |75        |100       |-1        |-1        |
+|rugie                |Rugie                                      |30        |60        |92        |-1        |-1        |
+|astraltale           |Astral tale                                |45        |70        |96        |-1        |-1        |
+|phantasia            |Phantasia                                  |40        |55        |92        |-1        |-1        |
+|empireofwinter       |Empire of Winter                           |35        |65        |90        |-1        |-1        |
+|merlin               |MERLIN                                     |30        |55        |89        |94        |-1        |
+|dxfullmetal          |DX Choseinou Full Metal Shojo              |30        |60        |98        |-1        |-1        |
+|omakeno              |OMAKENO Stroke                             |30        |65        |95        |102       |-1        |
+|scarletlance         |Scarlet Lance                              |40        |70        |101       |-1        |-1        |
+|ouroboros            |ouroboros -twin stroke of the end-         |45        |75        |107       |-1        |-1        |
+|libertas             |Libertas                                   |35        |55        |92        |105       |-1        |
+|solitarydream        |Solitary Dream                             |40        |70        |88        |-1        |-1        |
+|antithese            |Antithese                                  |20        |50        |88        |95        |-1        |
+|corruption           |Corruption                                 |30        |65        |98        |-1        |-1        |
+|blackterritory       |Black Territory                            |30        |75        |98        |-1        |-1        |
+|viciousheroism       |Vicious Heroism                            |40        |75        |100       |111       |-1        |
+|cyaegha              |Cyaegha                                    |55        |84        |107       |-1        |-1        |
+|revixy               |ReviXy                                     |30        |70        |90        |-1        |-1        |
+|grimheart            |Grimheart                                  |25        |50        |87        |-1        |-1        |
+|vector               |VECTOЯ                                     |30        |70        |94        |-1        |-1        |
+|supernova            |SUPERNOVA                                  |30        |60        |97        |-1        |-1        |
+|dottodot             |Dot to Dot feat. shully                    |30        |60        |83        |-1        |-1        |
+|garakuta             |Garakuta Doll Play                         |45        |65        |104       |-1        |-1        |
+|ikazuchi             |Ikazuchi                                   |35        |75        |104       |-1        |-1        |
+|worldvanquisher      |World Vanquisher                           |25        |55        |108       |-1        |-1        |
+|dreadnought          |Dreadnought                                |40        |70        |97        |-1        |-1        |
+|particlearts         |Particle Arts                              |35        |60        |88        |-1        |-1        |
+|vindication          |Vindication                                |40        |65        |96        |-1        |-1        |
+|heavensdoor          |Heavensdoor                                |45        |75        |99        |108       |-1        |
+|ringedgenesis        |Ringed Genesis                             |55        |84        |108       |-1        |-1        |
+|chelsea              |Chelsea                                    |30        |60        |89        |-1        |-1        |
+|aiueoon              |AI[UE]OON                                  |35        |65        |94        |-1        |-1        |
+|melodyoflove         |A Wandering Melody of Love                 |35        |75        |96        |-1        |-1        |
+|tiemedowngently      |Tie me down gently                         |30        |55        |83        |-1        |-1        |
+|valhallazero         |Valhalla:0                                 |45        |75        |104       |-1        |-1        |
+|mirzam               |Mirzam                                     |40        |75        |100       |-1        |-1        |
+|diode                |Diode                                      |25        |55        |81        |-1        |-1        |
+|freefall             |FREEF4LL                                   |40        |70        |86        |98        |-1        |
+|gloryroad            |GLORY：ROAD                                 |45        |70        |106       |-1        |-1        |
+|monochromeprincess   |Monochrome Princess                        |45        |78        |97        |-1        |-1        |
+|heavenlycaress       |Heavenly caress                            |35        |75        |98        |-1        |-1        |
+|senkyou              |Senkyou                                    |30        |55        |87        |-1        |-1        |
+|filament             |Filament                                   |45        |78        |97        |-1        |-1        |
+|avantraze            |Avant Raze                                 |35        |65        |96        |-1        |-1        |
+|battlenoone          |BATTLE NO.1                                |35        |65        |97        |-1        |-1        |
+|laqryma              |La'qryma of the Wasteland                  |35        |65        |91        |99        |-1        |
+|einherjar            |Einherjar Joker                            |40        |70        |98        |109       |-1        |
+|izana                |IZANA                                      |50        |83        |103       |-1        |-1        |
+|saikyostronger       |SAIKYO STRONGER                            |55        |94        |110       |-1        |-1        |
+|worldexecuteme       |world.execute(me);                         |35        |50        |80        |-1        |-1        |
+|blrink               |BLRINK                                     |35        |78        |97        |-1        |-1        |
+|oblivia              |Oblivia                                    |35        |50        |83        |97        |-1        |
+|amygdata             |amygdata                                   |40        |75        |97        |-1        |-1        |
+|corpssansorganes     |corps-sans-organes                         |45        |78        |106       |-1        |-1        |
+|equilibrium          |Equilibrium                                |35        |65        |94        |-1        |-1        |
+|antagonism           |Antagonism                                 |45        |78        |99        |-1        |-1        |
+|lostdesire           |Lost Desire                                |40        |78        |98        |-1        |-1        |
+|dantalion            |Dantalion                                  |50        |82        |109       |-1        |-1        |
+|ifi                  |#1f1e33                                    |55        |92        |112       |-1        |-1        |
+|tempestissimo        |Tempestissimo                              |70     
